@@ -1,0 +1,25 @@
+{
+    "expo": {
+      "name": "Buddy",
+      "icon": "./assets/icon.png",
+      "slug": "Buddy",
+      "version": "3.0.0",
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "description": "Buddy is an online social media network where the young youth can interact with each other and share images with each other.",
+      "android": {
+        "package": "com.buddytime.android",
+        "config": {
+          "googleMobileAdsAppId": "ca-app-pub-7064455746417194~1509792790"
+        }
+      },
+      "owner": "tanishgarg565"
+    },
+    "android": {
+      "package": "com.buddytime.android",
+      "versionCode": 2
+    },
+    "name": "Buddy"
+  }
+  
